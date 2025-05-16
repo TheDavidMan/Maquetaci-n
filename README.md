@@ -19,7 +19,6 @@ Este proyecto es una **maquetación web** creada con **React.js** y configurada 
 - React.js
 - Vite
 - React Router DOM
-- HTML5 & CSS3
 
 ## ⚙️ Instalación
 
